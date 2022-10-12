@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="31">
+  <Forms>
+    <UDF1 Class="TCEForm" Encoding="Ascii85">,sweg5E9@Kz#ii4;Xu*W%M$A1X2^{]npVQh%E.!Cnwg$a!u*{OIV8V.DTy@aGo;Vh+?2PWIkBK5Ge3[FtenR:Co=s#1g?AH!iOnl-}@iOR9aG!pT]MfK(*W0gWAC40k%L6VgXYQ,/b%vj+!G8_Du%CA_^{V82_</UDF1>
+    <UDF1_1 Class="TCEForm" Encoding="Ascii85">,sweg5E9@Kz#ii4;Xu*W%M$A1X2^{]npVQh%E.!Cnwg$a!u*{OIV8V.DTy@aGo;Vh+?2PWIkBK5Ge3[FtenR:Co=s#1g?AH!iOnl-}@iOR9aG!pT]MfK(*W0gWAC40k%L6VgXYQ,/b%vj+!G8_Du%CA_^{V82_</UDF1_1>
+    <UDF1_2 Class="TCEForm" Encoding="Ascii85">,sweg5E9@Kz#ii4;Xu*W%M$A1X2^{]npVQh%E.!Cnwg$a!u*{OIV8V.DTy@aGo;Vh+?2PWIkBK5Ge3[FtenR:Co=s#1g?AH!iOnl-}@iOR9aG!pT]MfK(*W0gWAC40k%L6VgXYQ,/b%vj+!G8_Du%CA_^{V82_</UDF1_2>
+    <UDF1_3 Class="TCEForm" Encoding="Ascii85">,sweg5E9@Kz#ii4;Xu*W%M$A1X2^{]npVQh%E.!Cnwg$a!u*{OIV8V.DTy@aGo;Vh+?2PWIkBK5Ge3[FtenR:Co=s#1g?AH!iOnl-}@iOR9aG!pT]MfK(*W0gWAC40k%L6VgXYQ,/b%vj+!G8_Du%CA_^{V82_</UDF1_3>
+    <UDF2 Class="TCEForm" Encoding="Ascii85">b7Ej%2nldAU:MM2b.}cxWeIh0Gh+;cO*Ft$Wn{Y6%{mcIVgA6t9Fkwal+AgInNpI$=7,zGoLEqjnV-i7R=ffx00</UDF2>
+  </Forms>
+  <CheatEntries>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"3D Vision DX12 = 2"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"SOTTR.exe"+36C5B40</Address>
+      <Offsets>
+        <Offset>94</Offset>
+        <Offset>A0</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
